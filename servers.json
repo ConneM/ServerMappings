@@ -1662,5 +1662,12 @@
 	"addresses": [
 	    "valleypvp.us"
 	]
+    },
+    {
+	"id": "sparkmc.us",
+	"name": "Spark Network",
+	"addresses: [
+	    "sparkmc.us"
+	]
     }
 ]
