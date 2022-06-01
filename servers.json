@@ -1905,5 +1905,12 @@
         "addresses": [
             "stolencode.fun"
         ]
+    },
+    {
+	"id": "sparkmc",
+	"name": "Spark Network",
+	"addresses": [
+	    "sparkmc.us"
+	]
     }
 ]
